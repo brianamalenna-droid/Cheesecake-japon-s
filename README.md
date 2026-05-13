@@ -3,7 +3,6 @@
   <head>
     <meta charset="utf-8">
 
-    <title>Cheesecake japonés</title>
 
 <h1 style="color: #8A4FFF;">Cheesecake japonés</h1>
 
