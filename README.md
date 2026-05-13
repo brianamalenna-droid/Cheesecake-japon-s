@@ -63,9 +63,6 @@
 <li>Cuando enfríe, darlo vuelta para retirarlo del molde, sacar el papel manteca y servir espolvoreado con azúcar impalpable.</li>
 
 
-  </head>
-  <body>
-
   </body>
 </html>
 
